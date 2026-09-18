@@ -1,4 +1,5 @@
 #include <iostream> //u gotta do this if you you wanna use terminal
+#include <string> //strings DLC
 using namespace std; //less efficient, also semicolon exist
 
 int main(){
@@ -10,12 +11,15 @@ int main(){
 
     cout << "hello \n"; //print to console, also \n makes new line(no shit)
     cout << string_name << integer_name << endl; // can also do this
+    cout << double_name << float_name; 
     cin >> float_name; // can also input btw
 
     integer_name = 6+7; //math exists
     integer_name = integer_name+1; //can also do this 
     integer_name += 2; //and this
     integer_name ++; //and this
+
+
     return 0; //also remember to do this cuz reasons
     //also floating points exist
 }
