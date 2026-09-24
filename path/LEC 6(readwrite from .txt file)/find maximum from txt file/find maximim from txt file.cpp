@@ -9,7 +9,7 @@ int main(){
     if(fileReader.is_open()){ //checks if file is open
         int num=0; //stores each number read from the file
         int max=INT_MIN; //starts the maximum at the smallest possible int value
-        while(fileReader>>num){ //reads one number at a time until the file ends
+        while(fileReader>>num){ //reads one number at a time until the file ends, >> is an extraction operator
             if (num>max){ //checks whether the new number is larger than the current maximum
                 max=num; //updates the maximum when a larger number is found
             }

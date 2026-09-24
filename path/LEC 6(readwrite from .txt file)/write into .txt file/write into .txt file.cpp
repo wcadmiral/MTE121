@@ -1,0 +1,30 @@
+#include <iostream>
+#include<fstream> //includes 2 classes: ifstream and ofstream, allows read and write from files, i.e. file operations
+#include<climits> //provides INT_MIN, the smallest possible int value in c++
+using namespace std;
+
+int main(){
+    int max=INT_MIN; //stores the largest number found
+    ifstream fileReader; //creates an input file object for reading
+    fileReader.open("input.txt"); //opens the file containing the numbers
+    if(fileReader.is_open()){ //checks if file is open
+        int num=0; //stores each number read from the file
+        while(fileReader>>num){ //reads one number at a time until the file ends, >> is an extraction operator
+            if (num>max){ //checks whether the new number is larger than the current maximum
+                max=num; //updates the maximum when a larger number is found
+            }
+        }
+        cout<< "Maximum is "<<max<<endl; //displays the largest number found
+    }
+    else{ //error handling
+        cout <<"Error opening file" << endl;
+    }
+    fileReader.close(); //closes the file after reading is finished
+    ofstream fileWriter; //creates an outpot file object for writing into file
+    fileWriter.open("output.txt"); //creates output.txt file
+    if (fileWriter.is_open()){ //checks if file is open
+        fileWriter <<"Maximum is: " <<max<<endl; //prints into file
+    }
+    fileWriter.close(); //closes the output file
+    return 0;
+}
