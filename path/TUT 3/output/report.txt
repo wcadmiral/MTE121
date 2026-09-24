@@ -1,0 +1,13 @@
+          First Name           Last Name        Years needed
+               Count             Dracula                  11
+              Muffin                 Man                   8
+               Peter                 Pan                   6
+               Tooth               Fairy                   9
+               Daffy                Duck                   6
+               Harry              Potter                  17
+               Homer             Simpson                   7
+                Bugs               Bunny                  11
+              Albert            Einstein                   5
+              Spider                 Man                   3
+                Alan              Turing                   9
+              Tinker                Bell                   7
