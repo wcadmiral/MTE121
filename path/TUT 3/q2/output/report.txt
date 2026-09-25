@@ -1,1 +1,16 @@
-      Trip                 VIP     number of stops      total distance          total cost            odometer
+      Trip                 VIP     number of stops   trip distance(km)        trip cost($)  total distance(km)       total cost($)
+         1                   0                   1               20.40               68.04               20.40               68.04
+         2                   1                   2               13.07               47.98               33.47              116.02
+         3                   0                   4               40.72              165.86               74.18              281.88
+         4                   0                   3               25.83              112.16              100.02              394.05
+        14                   0                   4               26.46              128.79              410.38             1636.09
+        24                   1                   2               25.01               71.27              752.64             2900.09
+        34                   0                   3               21.75              101.55             1053.62             4052.71
+        44                   0                   2               19.87               81.66             1307.69             4972.96
+        54                   0                   5               33.90              163.14             1597.49             6030.68
+        64                   0                   2               19.57               80.89             1874.82             7079.54
+        74                   1                   2               13.53               48.88             2142.17             8064.27
+The cumulative distance was 2244.10 km.
+The cumulative revenue was $8435.45.
+The longest trip was 2244.10 km.
+The cheapest trip was $38.95.
