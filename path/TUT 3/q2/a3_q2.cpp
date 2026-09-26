@@ -70,4 +70,6 @@ int main(){
     else{
         cout <<"error opening file";
     }
+    return 0;
 }
+
