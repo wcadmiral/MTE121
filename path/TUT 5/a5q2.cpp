@@ -58,22 +58,30 @@ int main(){
 
         //read input file
         while (read>> job_number >> side_number >> side_length >> inscribed_radius){
+
+            //computation
             cost = job_cost(side_length, inscribed_radius, side_number);
             total_cost += cost;
             counter ++;
             if (cost>maximum_cost){
                 maximum_cost = cost;
             }
+
+            //output
             write << setw(15) << job_number << fixed << setprecision(2) <<setw(10) << "$"<< cost << endl;
         }
+
+        //final output
         average_cost = total_cost/counter;
         write << "Maximum Cost: $" << maximum_cost << endl;
         write << "Total Cost: $" << total_cost << endl;
         write << "Average Cost: $" << average_cost << endl;
     }
+
     //error handling
     else {
         cout << "Error opening File";
     }
     return 0;
 }
+
