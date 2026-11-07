@@ -1,0 +1,52 @@
+initial
+      Spot                Name      Type
+       101Hamdullahpur_Feridun         1
+       102        Yerxa_Meagan         1
+       103                             0
+       104     Musselman_Kevin         1
+       105                             0
+       106                             0
+       107                             0
+       108       Gryguc_Andrew         1
+       109      Campbell_Emily         1
+       110        Lovelace_Ada         0
+       111                             0
+       112        Archimedes_A         0
+       113        da_Vinci_Leo         0
+       114   MacGregor_Carolyn         1
+       115                             0
+       116    McGregor_Martine         0
+       117        Gorman_David         1
+       118           Owen_Bill         1
+       119                             0
+       120         Nairn_David         1
+       121                             0
+       122     Katherine_Idzik         1
+       123        Consell_Ryan         1
+       124           McKay_Ken         1
+       125  Vandekerckhove_Sam         1
+       126          Tesla_Nick         0
+       127                             0
+       128           Otto_Nick         0
+       129           Turing_Al         0
+       130     Teertstra_Peter         1
+       131             Aho_Alf         0
+       132           Bell_Alex         0
+       133      Stephenson_Geo         0
+       134             Musk_El         0
+       135        Hopper_Grace         0
+       136            Oh_Henry         0
+       137        Milne_Andrew         1
+       138                             0
+       139         Cramer_Zack         1
+       140                             0
+       141          Edison_Tom         0
+       142         Hulls_Carol         1
+       143                             0
+       144      Payton_Forrest         1
+       145        Babbage_Chip         0
+       146         Casale_Matt         1
+       147          Goel_Vivek         1
+       148         Harris_Dave         1
+       149                             0
+       150          Wells_Mary         1

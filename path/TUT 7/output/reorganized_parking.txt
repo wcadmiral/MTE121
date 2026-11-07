@@ -1,0 +1,52 @@
+reorganized
+      Spot                Name      Type
+       101  Vandekerckhove_Sam         1
+       102     Teertstra_Peter         1
+       103        Milne_Andrew         1
+       104     Musselman_Kevin         1
+       105         Cramer_Zack         1
+       106         Hulls_Carol         1
+       107      Payton_Forrest         1
+       108          Goel_Vivek         1
+       109         Harris_Dave         1
+       110        Lovelace_Ada         0
+       111          Wells_Mary         1
+       112        Archimedes_A         0
+       113        da_Vinci_Leo         0
+       114                             0
+       115                             0
+       116                             0
+       117        Gorman_David         1
+       118           Owen_Bill         1
+       119                             0
+       120                             0
+       121                             0
+       122     Katherine_Idzik         1
+       123        Consell_Ryan         1
+       124                             0
+       125                             0
+       126          Tesla_Nick         0
+       127                             0
+       128           Otto_Nick         0
+       129           Turing_Al         0
+       130                             0
+       131             Aho_Alf         0
+       132           Bell_Alex         0
+       133                             0
+       134                             0
+       135        Hopper_Grace         0
+       136                             0
+       137                             0
+       138                             0
+       139                             0
+       140                             0
+       141                             0
+       142                             0
+       143                             0
+       144                             0
+       145        Babbage_Chip         0
+       146                             0
+       147                             0
+       148                             0
+       149                             0
+       150                             0
